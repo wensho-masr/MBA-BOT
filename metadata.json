@@ -1,0 +1,8 @@
+{
+  "name": "MBA BOT - Coding Assistant",
+  "description": "A specialized AI chatbot focused exclusively on code generation, debugging, and software engineering explanations using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
